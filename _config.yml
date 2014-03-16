@@ -3,3 +3,4 @@ markdown: redcarpet
 pygments: true
 safe: true
 lsi: false
+url: "http://keepitlazy.github.io/blog"
