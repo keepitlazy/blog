@@ -11,9 +11,9 @@ pygments: true
 title : KeepItLazy
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : Jeremy Lee
+  email : jeremy.orz@gmail.com
+  github : keepitlazy
   twitter : username
   feedburner : feedname
 
